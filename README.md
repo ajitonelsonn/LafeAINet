@@ -22,11 +22,17 @@
   <strong>🏆 Submission for AI for Connectivity Hackathon II: Building Resilient Networks</strong>
 </div>
 
+<p align="center">
+  <a href="/app.png" target="_blank">
+    <img src="/app.png" alt="Timor-Leste Connectivity" width="600">
+  </a>
+</p>
+
 <div align="center">
   <h3>AI-Powered Network Connectivity Monitoring Platform for Timor-Leste</h3>
 </div>
 
-## 👥 Team
+## 👥 Lafaek AI Team
 
 <div align="center">
       <a href="https://github.com/ajitonelsonn">
